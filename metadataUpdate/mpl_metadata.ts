@@ -27,7 +27,7 @@ async function main(){
     const ourMetadata = { // TODO change those values!
         name: "Skyware Token", 
         symbol: "SWRT",
-        uri: "https://raw.githubusercontent.com/loopcreativeandy/video-tutorial-resources/main/metadataUpdate/metadata.json",
+        uri: "https://raw.githubusercontent.com/axeolotle/video-tutorial-resources/main/metadataUpdate/metadata.json",
     }
     const onChainData = {
         ...ourMetadata,
